@@ -1,0 +1,13 @@
+current directory: /home/sindeas/bewd-todolist/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220929-4582-gktsyo.rb extconf.rb
+creating Makefile
+
+current directory: /home/sindeas/bewd-todolist/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\= clean
+
+current directory: /home/sindeas/bewd-todolist/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/sindeas/bewd-todolist/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\= install
